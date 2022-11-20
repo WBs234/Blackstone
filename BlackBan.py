@@ -36,7 +36,7 @@ print(azul+''' _______  ___      _______  _______  ___   _  _______  _______  __
 |_______||_______||__| |__||_______||___| |_||_______|  |___|  |_______||_|  |__||_______| \n''')
 time.sleep(2)
 print(amarelo+"Bem vindo ao script de banimento de Whatsapp!! by wb.py404\n")
-nig = input("Digite o número que você deseja banir,"+vermelho+" APOS COLOCAR O NÚMERO, DEIXE O SCRIPT ABERTO EM SEGUNDO PLANO POR 3 HORAS, E O NÚMERO SERA BANIDO EM SEGUIDA: ")
+nig = input("Digite o número que você deseja banir,"+vermelho+" APOS COLOCAR O NÚMERO, DIGITE 'y' PARA ACEITAR OS ARQUIVOS ADICIONAIS,E EM SEGUIDA DEIXE O SCRIPT ABERTO EM SEGUNDO PLANO POR 3 HORAS, E O NÚMERO SERA BANIDO EM SEGUIDA: ")
 time.sleep(2)
 print ("Carregando...")
 os.system("pkg install nmap-ncat")
