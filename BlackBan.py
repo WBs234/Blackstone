@@ -1,6 +1,6 @@
 import time
 import os
-amarelo = "\033[31m" 
+amarelo = "\033[33m" 
 vermelho = "\033[31m"
 azul= "\033[34m" 
 branco= "\033[37m"
