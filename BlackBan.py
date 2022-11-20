@@ -5,6 +5,7 @@ vermelho = "\033[31m"
 azul= "\033[34m" 
 branco= "\033[37m"
 
+os.system("clear")
 print(vermelho + '''
                       :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
